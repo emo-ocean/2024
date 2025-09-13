@@ -1,3 +1,4 @@
+# FUCKING SCHOOL
 # gem5 bootcamp environment
 
 This repository has been designed for use in gem5 tutorials.
